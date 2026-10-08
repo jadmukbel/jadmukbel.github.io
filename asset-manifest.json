@@ -1,27 +1,25 @@
 {
   "files": {
-    "main.css": "/static/css/main.5ae9a28f.css",
-    "main.js": "/static/js/main.1c9c1b0c.js",
+    "main.css": "/static/css/main.a65be5a2.css",
+    "main.js": "/static/js/main.c57883ac.js",
+    "static/media/source-serif-4-latin-opsz-normal.woff2": "/static/media/source-serif-4-latin-opsz-normal.1a97523a10cc84811140.woff2",
+    "static/media/source-serif-4-latin-ext-opsz-normal.woff2": "/static/media/source-serif-4-latin-ext-opsz-normal.686eb107ee2ed09f78ea.woff2",
+    "static/media/source-serif-4-cyrillic-opsz-normal.woff2": "/static/media/source-serif-4-cyrillic-opsz-normal.d022be7fe4277c756ccb.woff2",
+    "static/media/source-serif-4-greek-opsz-normal.woff2": "/static/media/source-serif-4-greek-opsz-normal.4c7084ddf942cf395a87.woff2",
+    "static/media/source-serif-4-cyrillic-ext-opsz-normal.woff2": "/static/media/source-serif-4-cyrillic-ext-opsz-normal.5aa29650eeedb28f59ce.woff2",
     "static/media/inter-latin-500-normal.woff": "/static/media/inter-latin-500-normal.5014db633e71a7741bf5.woff",
     "static/media/inter-latin-600-normal.woff": "/static/media/inter-latin-600-normal.f10265da6bd8d66999ac.woff",
     "static/media/inter-latin-400-normal.woff": "/static/media/inter-latin-400-normal.2ea1079c0069eb040a52.woff",
-    "static/media/source-serif-4-latin-700-normal.woff": "/static/media/source-serif-4-latin-700-normal.df6c6c6917b765433986.woff",
-    "static/media/source-serif-4-latin-600-normal.woff": "/static/media/source-serif-4-latin-600-normal.1fa3c140bffa465b8e6f.woff",
-    "static/media/source-serif-4-latin-500-normal.woff": "/static/media/source-serif-4-latin-500-normal.651711c11b9bc61cc8e4.woff",
+    "static/media/source-serif-4-vietnamese-opsz-normal.woff2": "/static/media/source-serif-4-vietnamese-opsz-normal.8abc9903c827b563cfbb.woff2",
     "static/media/inter-latin-600-normal.woff2": "/static/media/inter-latin-600-normal.69a8d1d484967aba2389.woff2",
     "static/media/inter-latin-500-normal.woff2": "/static/media/inter-latin-500-normal.b7c27c60f848f2083f45.woff2",
-    "static/media/source-serif-4-latin-400-normal.woff": "/static/media/source-serif-4-latin-400-normal.018db33d236bb0e5ef61.woff",
     "static/media/inter-latin-400-normal.woff2": "/static/media/inter-latin-400-normal.eca1e21531598d5db58f.woff2",
-    "static/media/source-serif-4-latin-700-normal.woff2": "/static/media/source-serif-4-latin-700-normal.1cccb2db5709713b908f.woff2",
-    "static/media/source-serif-4-latin-600-normal.woff2": "/static/media/source-serif-4-latin-600-normal.63162eec71e4dfe248c2.woff2",
-    "static/media/source-serif-4-latin-500-normal.woff2": "/static/media/source-serif-4-latin-500-normal.dd6ae40e23432b7b743b.woff2",
-    "static/media/source-serif-4-latin-400-normal.woff2": "/static/media/source-serif-4-latin-400-normal.2acf80e276df9fd9f0a5.woff2",
     "index.html": "/index.html",
-    "main.5ae9a28f.css.map": "/static/css/main.5ae9a28f.css.map",
-    "main.1c9c1b0c.js.map": "/static/js/main.1c9c1b0c.js.map"
+    "main.a65be5a2.css.map": "/static/css/main.a65be5a2.css.map",
+    "main.c57883ac.js.map": "/static/js/main.c57883ac.js.map"
   },
   "entrypoints": [
-    "static/css/main.5ae9a28f.css",
-    "static/js/main.1c9c1b0c.js"
+    "static/css/main.a65be5a2.css",
+    "static/js/main.c57883ac.js"
   ]
 }
